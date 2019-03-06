@@ -2,59 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfe6ea7e-503b-424f-b07f-af17e398d9bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/api/entry.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/css/print.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/css/screen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/css/typography.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/fonts/DroidSans-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/fonts/DroidSans.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/images/collapse.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/images/expand.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/images/explorer_icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/images/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/images/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/images/logo_small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/images/pet_store_api.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/images/throbber.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/images/wordnik_api.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lang/ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lang/el.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lang/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lang/es.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lang/fr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lang/geo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lang/it.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lang/ja.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lang/ko-kr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lang/pl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lang/pt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lang/ru.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lang/tr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lang/translator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lang/zh-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lib/backbone-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lib/es5-shim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lib/handlebars-4.0.5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lib/highlight.9.1.0.pack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lib/highlight.9.1.0.pack_extended.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lib/jquery-1.8.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lib/jquery.ba-bbq.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lib/jquery.slideto.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lib/jquery.wiggle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lib/js-yaml.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lib/jsoneditor.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lib/lodash.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lib/marked.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lib/object-assign-pollyfill.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lib/sanitize-html.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/lib/swagger-oauth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/o2c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/swagger-ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/swagger/swagger-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,21 +16,39 @@
     <SUITE FILE_PATH="coverage/YS_blog@Development__YS_blog.rcov" NAME="Development: YS-blog Coverage Results" MODIFIED="1551855761428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="YS-blog" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/api/entry.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+            <state relative-caret-position="1005">
+              <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -106,6 +73,7 @@
         <option value="$PROJECT_DIR$/app/api/entry.rb" />
         <option value="$PROJECT_DIR$/public/swagger/index.html" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -129,6 +97,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,38 +109,12 @@
             <path>
               <item name="YS-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="YS-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="YS-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YS-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="YS-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YS-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="YS-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YS-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="swagger" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="YS-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YS-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="swagger" type="462c0819:PsiDirectoryNode" />
-              <item name="swagger-ui.js" type="620a8d5e:NestingTreeNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -335,12 +279,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551854785117</updated>
-      <workItem from="1551854786322" duration="1327000" />
+      <workItem from="1551854786322" duration="2613000" />
+      <workItem from="1551857700381" duration="100000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1327000" />
+    <option name="totallyTimeSpent" value="2713000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -355,38 +300,31 @@
     <frame x="0" y="23" width="1440" height="832" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32972974" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5007153" side_tool="true" weight="0.32972974" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.32972974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972974" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.32972974" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/swagger/css/print.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -412,13 +350,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/api/entry.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -426,17 +357,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config.ru">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/development.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+        <state relative-caret-position="1005">
+          <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/entry.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
         </state>
       </provider>
     </entry>
